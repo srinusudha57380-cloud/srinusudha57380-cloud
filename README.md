@@ -1,54 +1,84 @@
-# Hi 👋, I'm Srinu Sudha
+# Srinu Sudha
 
-## Network & Security Engineer | CCNA | CCNP | PCNSE | AWS Networking
+Network Engineer · Network Security · Cloud Networking · Infrastructure Automation
 
-I am a Network Engineer with expertise in enterprise networking, network security, cloud networking, and infrastructure operations. I have hands-on experience designing, implementing, and troubleshooting large-scale network environments with a strong focus on routing, switching, firewall technologies, and cloud connectivity.
+---
 
-### 🔧 Technical Skills
+I design, configure, troubleshoot, and secure enterprise network environments across routing, switching, firewall, VPN, and cloud networking platforms.
 
-#### 🌐 Networking
-- Cisco Routing & Switching (BGP, OSPF, EIGRP, VLANs, STP, EtherChannel)
-- Inter-VLAN Routing and High Availability Solutions
-- WAN Technologies and Network Troubleshooting
-- Cisco Catalyst, Nexus, and Data Center Networking
+My focus is on building reliable, secure, and scalable network infrastructure using Cisco, Palo Alto, AWS, Azure, Linux, and automation tools.
 
-#### 🔒 Security
-- Palo Alto Firewalls and Panorama
-- Cisco ASA Firewalls
-- NAT, ACLs, Security Policies
-- IPSec VPN, GlobalProtect, SSL VPN
-- Threat Prevention and Network Segmentation
+---
 
-#### ☁️ AWS Networking
-- Amazon VPC
-- Transit Gateway
-- Site-to-Site VPN
-- AWS Direct Connect
-- Security Groups and Network ACLs
-- Route 53
-- Elastic Load Balancers (ALB/NLB)
-- NAT Gateway
-- VPC Peering
-- VPC Endpoints
+## What I Work On
 
-#### 🤖 Automation & Tools
-- Python for Network Automation
-- Ansible
-- Git & GitHub
-- Linux
-- Wireshark
-- SolarWinds
+    Routing & Switching        Network Security          Cloud & Automation
+    ─────────────────          ────────────────          ─────────────────
+    BGP / OSPF / EIGRP         Palo Alto Firewall        AWS VPC
+    VLAN / Trunking            Cisco ASA Firewall        Security Groups
+    STP / EtherChannel         NAT / ACLs                Azure Networking
+    Inter-VLAN Routing         IPsec / SSL VPN           Python Scripts
+    Cisco Catalyst/Nexus       Panorama                  Terraform Basics
 
-### 🏆 Certifications
-- Cisco Certified Network Associate (**CCNA**)
-- Cisco Certified Network Professional Enterprise (**CCNP Enterprise**)
-- Palo Alto Networks Certified Network Security Engineer (**PCNSE**)
-- AWS Certified Advanced Networking – Specialty (ANS-C01)
+---
 
-### 📫 Connect with Me
+## Core Skills
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Firewall-orange)
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Python](https://img.shields.io/badge/Python-Automation-green)
+![Linux](https://img.shields.io/badge/Linux-Troubleshooting-black)
+
+- Routing: BGP, OSPF, EIGRP, Static Routing
+- Switching: VLANs, Trunks, STP, EtherChannel, Inter-VLAN Routing
+- Firewalls: Palo Alto, Cisco ASA, NAT, ACLs, Security Policies
+- VPN: IPsec VPN, SSL VPN, Site-to-Site VPN
+- Cloud Networking: AWS VPC, Security Groups, NACLs, Route Tables, Azure VNets
+- Tools: Wireshark, SolarWinds, Linux, GitHub
+- Automation: Python basics, Terraform basics, Ansible basics
+
+---
+
+## Featured Projects
+
+### Network Automation Scripts
+Python scripts for basic network device login, backup, and configuration validation.
+
+### Palo Alto Firewall Operations
+Firewall policy review, NAT configuration, VPN troubleshooting, and security rule documentation.
+
+### AWS Network Security Lab
+AWS VPC design with public/private subnets, route tables, security groups, and NACLs.
+
+---
+
+## Professional Background
+
+- Experience supporting enterprise routing and switching environments
+- Hands-on work with Cisco Catalyst, Nexus, Palo Alto, and Cisco ASA devices
+- Strong troubleshooting experience across LAN, WAN, VPN, and cloud connectivity
+- Worked with monitoring tools like SolarWinds and packet analysis using Wireshark
+- Familiar with change management, documentation, and production support
+
+---
+
+## Currently Learning
+
+- Network Automation with Python
+- Terraform for Cloud Networking
+- AWS Advanced Networking
+- Palo Alto Panorama
+- DevNet and Infrastructure Automation
+
+---
+
+## Connect
+
 - LinkedIn: https://www.linkedin.com/in/srinu-sudha/
 - Email: srinusudha57380@gmail.com
 
 ---
 
-⭐ Passionate about building secure, scalable, and highly available network infrastructures while continuously expanding expertise in cloud networking, network security, and automation.
+“Strong networks are built with clean design, secure policies, and consistent troubleshooting.”
