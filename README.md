@@ -74,11 +74,16 @@ AWS VPC design with public/private subnets, route tables, security groups, and N
 
 ---
 
-## Connect
+## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/srinu-sudha/
-- Email: srinusudha57380@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/srinu-sudha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Srinu%20Sudha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
----
+  <a href="mailto:srinusudha57380@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 “Strong networks are built with clean design, secure policies, and consistent troubleshooting.”
